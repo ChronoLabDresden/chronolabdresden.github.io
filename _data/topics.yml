@@ -1,0 +1,44 @@
+- title: "Sleep Architecture and Neuroplasticity"
+  icon: /assets/images/icon-sleep.png
+  text: >
+    Sleep, particularly non-rapid eye movement (NREM) sleep characterized by
+    slow oscillations (<1 Hz), facilitates synaptic homeostasis and memory
+    consolidation by temporally coordinating neuronal reactivation and
+    downscaling of synaptic strength. These slow oscillations serve as a global
+    timing signal that gates the interplay between thalamocortical and
+    hippocampal activity, thereby enabling systems-level neural plasticity and
+    integration of recently encoded information into long-term cortical storage.
+
+- title: "REM-Sleep and Affective Disorders"
+  icon: /assets/images/icon-rem.png
+  text: >
+    Affective disorders, particularly major depressive disorder and bipolar
+    disorder, are consistently associated with alterations in REM sleep
+    architecture, including reduced REM latency and increased REM density,
+    reflecting heightened cholinergic and limbic activity during early sleep
+    stages. These REM abnormalities are hypothesized to contribute to affective
+    dysregulation by disrupting emotional memory processing and impairing the
+    modulation of amygdalo-prefrontal circuits critical for mood stability.
+
+- title: "Rest/Activity Rhythms"
+  icon: /assets/images/icon-rhythm.png
+  text: >
+    Disruptions in rest-activity rhythms, as objectively measured by actigraphy
+    and ecological momentary assessment (EMA), are consistently observed in
+    individuals with affective disorders, manifesting as reduced rhythm
+    amplitude, increased fragmentation, and delayed phase alignment. These
+    alterations are closely linked to sleep disturbances, including insomnia and
+    hypersomnia, and are associated with heightened severity of depressive
+    symptoms, underscoring the critical role of circadian rhythm integrity in
+    mood regulation.
+
+- title: "Non-Visual Light Effects in Bipolar Disorder"
+  icon: /assets/images/icon-light.png
+  text: >
+    Individuals with bipolar disorder exhibit altered non-visual light
+    responses, including increased melatonin suppression and hypersensitivity to
+    short-wavelength light, possibly reflecting dysregulation in ipRGC-mediated
+    input to the suprachiasmatic nucleus. These alterations are associated with
+    phase delays, attenuated circadian amplitude, and sleep-wake instability,
+    indicating a mechanistic link between atypical photic entrainment and core
+    features of bipolar illness.
