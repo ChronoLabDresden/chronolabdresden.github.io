@@ -1,0 +1,23 @@
+- title: "Actigraphy"
+  tag: "Actigraphy"
+  image: /assets/images/method-actigraphy.jpg
+
+- title: "Sleep-EEG"
+  tag: "Sleep-EEG"
+  image: /assets/images/method-sleep-eeg.jpg
+
+- title: "Wake-EEG"
+  tag: "Wake-EEG"
+  image: /assets/images/method-wake-eeg.jpg
+
+- title: "Ecological Momentary Assessment"
+  tag: "EMA"
+  image: /assets/images/method-ema.jpg
+
+- title: "Closed Loop Auditory Stimulation"
+  tag: "CLAS"
+  image: /assets/images/method-clas.jpg
+
+- title: "Neurocognitive Testing"
+  tag: "Cognition"
+  image: /assets/images/method-cognition.jpg
