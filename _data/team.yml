@@ -1,0 +1,35 @@
+- name: "Philipp Ritter"
+  role: "Head of Lab"
+  focus: "Sleep EEG / Chronopsychiatry"
+  photo: /assets/images/team-ritter.jpg
+  url: /team/philipp-ritter/
+
+- name: "Jules Schneider"
+  role: "Postdoc"
+  focus: "Closed Loop Auditory Stimulation"
+  photo: /assets/images/team-schneider.jpg
+
+- name: "Pavol Mikolas"
+  role: "Senior Researcher"
+  focus: "Artificial Intelligence / Machine Learning"
+  photo: /assets/images/team-mikolas.jpg
+
+- name: "Clemens Krug"
+  role: "Senior Researcher"
+  focus: "Ecological Momentary Assessment / Actimetry"
+  photo: /assets/images/team-krug.jpg
+
+- name: "Tabea Czempiel"
+  role: "PhD Student"
+  focus: "Sleep EEG / Cognition"
+  photo: /assets/images/team-czempiel.jpg
+
+- name: "Sara Ghiasi"
+  role: "PhD Student"
+  focus: "Wake EEG / Sleep EEG"
+  photo: /assets/images/team-ghiasi.jpg
+
+- name: "Anna Tröger"
+  role: "PhD Student"
+  focus: "EEG / Cognition"
+  photo: /assets/images/team-troeger.jpg
