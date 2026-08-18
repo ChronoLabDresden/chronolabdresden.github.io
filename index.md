@@ -28,7 +28,7 @@ Anwendung.
 <div class="clab-band clab-band--grey">
 <div class="clab-inner">
 
-## Why sleep, sunlight and circadian rhythms are relevant to affective disorders
+<h2>Why sleep, sunlight and circadian rhythms are relevant to affective disorders</h2>
 
 <div class="clab-grid clab-grid--4">
 {% for topic in site.data.topics %}
@@ -46,7 +46,7 @@ Anwendung.
 <div class="clab-band">
 <div class="clab-inner">
 
-## Meet the Chrono-Warriors
+<h2>Meet the Chrono-Warriors</h2>
 
 <div class="clab-grid clab-grid--team">
 {% for person in site.data.team %}
@@ -66,7 +66,7 @@ Anwendung.
 <div class="clab-band clab-band--blue">
 <div class="clab-inner">
 
-## Chronobiological Research Methods
+<h2>Chronobiological Research Methods</h2>
 
 <div class="clab-grid clab-grid--methods">
 {% for method in site.data.methods %}
@@ -84,7 +84,7 @@ Anwendung.
 <div class="clab-band clab-band--grey">
 <div class="clab-inner" markdown="1">
 
-## Get in touch
+<h2>Get in Touch</h2>
 
 Interested in collaborating? [Write to us](/contact/).
 
